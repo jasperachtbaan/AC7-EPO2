@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526392574 source:c:\users\jaspe\google drive\tu delft\ee1d11 c assignments\xbee_comm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+
